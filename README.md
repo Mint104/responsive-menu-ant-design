@@ -1,4 +1,4 @@
-# Ant Design Responsive Navigation
+# Ant Design Responsive Menu
 
 This repository complements a [blog post](https://tomas.piestansky.cz/posts/2018/responsive-menu-ant-design/).
 
